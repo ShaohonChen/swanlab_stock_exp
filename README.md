@@ -4,6 +4,10 @@
 
 该教程的文档可参考：[https://docs.swanlab.cn/zh/examples/lstm_stock.html](https://docs.swanlab.cn/zh/examples/lstm_stock.html)
 
+关于SwanLab，可以参考：[https://swanlab.cn/](https://swanlab.cn/)
+
+开源版SwanLab仓库地址（求star）：[https://github.com/SwanHubX/SwanLab](https://github.com/SwanHubX/SwanLab)
+
 ## 环境安装：
 
 ```
